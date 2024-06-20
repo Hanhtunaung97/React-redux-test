@@ -21,3 +21,4 @@ const countReducer = (state = initialState, action) => {
     }
   }
 };
+export default countReducer;
